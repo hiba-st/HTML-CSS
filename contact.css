@@ -1,0 +1,51 @@
+img {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 0;
+}
+li {
+    list-style-type: none;
+   
+}
+    
+
+a{
+    text-decoration: none;
+    color: black;
+    justify-content: space-between;
+    padding-right: 20px;
+   
+}
+ul{
+    display: flex;
+    justify-content: flex-end;
+}
+a:hover{
+    color:rgb(3, 120, 120);
+}
+.Contact-info{
+    font-size: 20px;
+}
+.contain{
+  border-radius: 20px;  
+  background-color: rgb(87, 240, 243);
+}
+    
+.container{
+  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100wh;
+}
+.contact{
+    display: flex;
+    justify-content:center;
+    align-items: center ;
+    height: 100vh;
+    background: url(heroimage.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+

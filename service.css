@@ -1,0 +1,81 @@
+.cards{
+    margin-top: 40px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: whitesmoke;
+    
+}
+
+ .hh img{
+    width: 250px;
+
+border-radius: 15px;
+}
+
+.hh{
+
+   margin:  70px 50px 70px 70px ;
+background-color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+border-radius: 15px;
+    
+}
+a:hover{
+    color:rgb(3, 120, 120);
+}
+.hh p{
+    text-align: center;
+}
+.ll img{
+    width: 250px;
+    border-radius: 15px;
+
+}
+
+.ll{
+    margin:  20px 40px 20px 5px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+   border-radius: 15px;
+}
+.ll p{
+    text-align: center;
+}
+.dd img{
+    width: 250px;
+    border-radius: 15px;
+}
+.dd{
+    margin:  20px 40px 20px 20px;
+background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   border-radius: 15px;
+   
+}
+.dd p{
+    text-align: center;
+}
+a:hover{
+    color:rgb(3, 120, 120);
+}
+.contact{
+    display: flex;
+    justify-content:center;
+    align-items: center ;
+    height: 100vh;
+    background: url(heroimage.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
